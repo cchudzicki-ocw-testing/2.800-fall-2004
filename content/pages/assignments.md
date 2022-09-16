@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the different homework assignments, and a few guidelines
+  about the term paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

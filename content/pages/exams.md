@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Students take two exams during the term. The 1st exam from this course
+  is not available. Another exam from a previous year's class is provided as study
+  material.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

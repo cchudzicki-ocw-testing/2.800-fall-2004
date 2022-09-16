@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: These homeworks and a quiz from a previous year's class are provided
+  as study materials.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
